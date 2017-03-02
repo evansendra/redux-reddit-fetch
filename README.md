@@ -4,4 +4,4 @@ Simple app demonstrating async from redux tutorials: http://redux.js.org/docs/ad
 
 ## Built using create-react-app
 
-See `./README.md.bak`
+See `./README.bak.md`
